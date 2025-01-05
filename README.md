@@ -13,7 +13,7 @@ PCem 17 does not have any Wayland Support. It does appear that [PCem 18](https:/
 <pre>
 sudo apt update && sudo apt upgrade -y
 
-sudo apt-get install libsdl2-dev libwxgtk3.0-gtk3-dev libopenal-dev gcc make g++
+sudo apt-get install libsdl2-dev libwxgtk3.2-dev libopenal-dev gcc make g++
 
 mkdir PCemV17Linux/
 wget -c https://pcem-emulator.co.uk/files/PCemV17Linux.tar.gz
